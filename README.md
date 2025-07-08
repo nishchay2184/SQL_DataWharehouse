@@ -1,4 +1,4 @@
-# 📦 Data Warehouse & Analytics Project 🚀  
+# 📦 Data Warehouse & Analytics Project Nishchay Chaudhary🚀  
 *A Complete End-to-End Analytics Solution using SQL Server*
 
 Welcome to this comprehensive **Data Warehousing and Analytics Project**, where raw data transforms into actionable business insights. Designed as a **portfolio-ready** showcase, this project follows **modern data architecture** and **real-world industry practices**.
